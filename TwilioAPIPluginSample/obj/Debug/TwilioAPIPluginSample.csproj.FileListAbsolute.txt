@@ -1,0 +1,14 @@
+c:\users\lk\documents\visual studio 2015\Projects\TwilioAPIPluginSample\TwilioAPIPluginSample\obj\Debug\TwilioAPIPluginSample.csprojResolveAssemblyReference.cache
+c:\users\lk\documents\visual studio 2015\Projects\TwilioAPIPluginSample\TwilioAPIPluginSample\bin\Debug\TwilioAPIPluginSample.dll
+c:\users\lk\documents\visual studio 2015\Projects\TwilioAPIPluginSample\TwilioAPIPluginSample\bin\Debug\TwilioAPIPluginSample.pdb
+c:\users\lk\documents\visual studio 2015\Projects\TwilioAPIPluginSample\TwilioAPIPluginSample\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+c:\users\lk\documents\visual studio 2015\Projects\TwilioAPIPluginSample\TwilioAPIPluginSample\bin\Debug\Microsoft.Xrm.Sdk.dll
+c:\users\lk\documents\visual studio 2015\Projects\TwilioAPIPluginSample\TwilioAPIPluginSample\bin\Debug\RestSharp.dll
+c:\users\lk\documents\visual studio 2015\Projects\TwilioAPIPluginSample\TwilioAPIPluginSample\bin\Debug\Twilio.Api.dll
+c:\users\lk\documents\visual studio 2015\Projects\TwilioAPIPluginSample\TwilioAPIPluginSample\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+c:\users\lk\documents\visual studio 2015\Projects\TwilioAPIPluginSample\TwilioAPIPluginSample\bin\Debug\Microsoft.Xrm.Sdk.xml
+c:\users\lk\documents\visual studio 2015\Projects\TwilioAPIPluginSample\TwilioAPIPluginSample\bin\Debug\RestSharp.xml
+c:\users\lk\documents\visual studio 2015\Projects\TwilioAPIPluginSample\TwilioAPIPluginSample\bin\Debug\Twilio.Api.pdb
+c:\users\lk\documents\visual studio 2015\Projects\TwilioAPIPluginSample\TwilioAPIPluginSample\bin\Debug\Twilio.Api.xml
+c:\users\lk\documents\visual studio 2015\Projects\TwilioAPIPluginSample\TwilioAPIPluginSample\obj\Debug\TwilioAPIPluginSample.dll
+c:\users\lk\documents\visual studio 2015\Projects\TwilioAPIPluginSample\TwilioAPIPluginSample\obj\Debug\TwilioAPIPluginSample.pdb
